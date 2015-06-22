@@ -1,0 +1,63 @@
+{
+  "_id": {
+    "$oid": "555f9dd21674d3110058b0b6"
+  },
+  "profile": {
+    "_json": {
+      "summary": "I am a freshly incepted graduate from the Full-Stack JavaScript Web Development Bootcamp at RefactorU in beautiful Boulder Colorado. I am passionate about software and web development and energized by collaborating with people in solving problems. I find myself equally enthusiastic about both client-side / front-end development, and back-end development processes and enjoy working across the stack. I consider myself a life-long student, and always love diving into new projects and learning new things. I'm excited to be joining a field of so many talented software engineers working to improve people's lives through better software development! \n\nWhen I'm not coding, I keep busy as a musician, photographer, explorer of Colorado, and father of two amazing children.",
+      "siteStandardProfileRequest": {
+        "url": "https://www.linkedin.com/profile/view?id=315392112&authType=name&authToken=zfvm&trk=api*a3793973*s3863243*"
+      },
+      "relationToViewer": {
+        "distance": 0
+      },
+      "publicProfileUrl": "https://www.linkedin.com/in/matthewgrich",
+      "positions": {
+        "_total": 0
+      },
+      "pictureUrl": "https://media.licdn.com/mpr/mprx/0_IP83MD5jPby6-vp_Wn_-M7Fm16MHKvS_dNNYM7ka2iSJ7AsibvKDcfrhjeJ91tu7oKC0nHsDrPJI",
+      "numConnectionsCapped": false,
+      "numConnections": 100,
+      "location": {
+        "name": "Greater Denver Area",
+        "country": {
+          "code": "us"
+        }
+      },
+      "lastName": "Rich",
+      "industry": "Computer Software",
+      "id": "mRVmiN3anm",
+      "headline": "Full Stack Developer",
+      "formattedName": "Matthew Rich",
+      "firstName": "Matthew",
+      "distance": 0,
+      "apiStandardProfileRequest": {
+        "url": "https://api.linkedin.com/v1/people/mRVmiN3anm",
+        "headers": {
+          "values": [
+            {
+              "value": "name:zfvm",
+              "name": "x-li-auth-token"
+            }
+          ],
+          "_total": 1
+        }
+      }
+    },
+    "_raw": "{\n  \"apiStandardProfileRequest\": {\n    \"headers\": {\n      \"_total\": 1,\n      \"values\": [{\n        \"name\": \"x-li-auth-token\",\n        \"value\": \"name:zfvm\"\n      }]\n    },\n    \"url\": \"https://api.linkedin.com/v1/people/mRVmiN3anm\"\n  },\n  \"distance\": 0,\n  \"firstName\": \"Matthew\",\n  \"formattedName\": \"Matthew Rich\",\n  \"headline\": \"Full Stack Developer\",\n  \"id\": \"mRVmiN3anm\",\n  \"industry\": \"Computer Software\",\n  \"lastName\": \"Rich\",\n  \"location\": {\n    \"country\": {\"code\": \"us\"},\n    \"name\": \"Greater Denver Area\"\n  },\n  \"numConnections\": 100,\n  \"numConnectionsCapped\": false,\n  \"pictureUrl\": \"https://media.licdn.com/mpr/mprx/0_IP83MD5jPby6-vp_Wn_-M7Fm16MHKvS_dNNYM7ka2iSJ7AsibvKDcfrhjeJ91tu7oKC0nHsDrPJI\",\n  \"positions\": {\"_total\": 0},\n  \"publicProfileUrl\": \"https://www.linkedin.com/in/matthewgrich\",\n  \"relationToViewer\": {\"distance\": 0},\n  \"siteStandardProfileRequest\": {\"url\": \"https://www.linkedin.com/profile/view?id=315392112&authType=name&authToken=zfvm&trk=api*a3793973*s3863243*\"},\n  \"summary\": \"I am a freshly incepted graduate from the Full-Stack JavaScript Web Development Bootcamp at RefactorU in beautiful Boulder Colorado. I am passionate about software and web development and energized by collaborating with people in solving problems. I find myself equally enthusiastic about both client-side / front-end development, and back-end development processes and enjoy working across the stack. I consider myself a life-long student, and always love diving into new projects and learning new things. I'm excited to be joining a field of so many talented software engineers working to improve people's lives through better software development! \\n\\nWhen I'm not coding, I keep busy as a musician, photographer, explorer of Colorado, and father of two amazing children.\"\n}",
+    "photos": [
+      "https://media.licdn.com/mpr/mprx/0_IP83MD5jPby6-vp_Wn_-M7Fm16MHKvS_dNNYM7ka2iSJ7AsibvKDcfrhjeJ91tu7oKC0nHsDrPJI"
+    ],
+    "emails": [
+      null
+    ],
+    "name": {
+      "givenName": "Matthew",
+      "familyName": "Rich"
+    },
+    "displayName": "Matthew Rich",
+    "id": "mRVmiN3anm",
+    "provider": "linkedin"
+  },
+  "__v": 0
+}

@@ -1,0 +1,20 @@
+{
+	"scripts": {
+    "start": "nodemon app.js",
+    "watch": "npm run watch-public & npm run watch-contr & npm run watch-app & npm run watch-model & npm run watch-config & npm run watch-styles",
+    "watch-public": "coffee -w -o public/scripts -c public/scripts/coffee",
+    "watch-contr": "coffee -w -o controllers -c controllers/coffee",
+    "watch-app": "coffee -wc app.coffee",
+    "watch-model": "coffee -w -o models -c models/coffee",
+    "watch-config": "coffee -w -o config -c config/coffee",
+    "watch-styles": "stylus -w -o public/styles/css -c public/styles/stylus"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "coffee-script": "^1.9.2",
+    "express": "^4.12.4",
+    "jade": "^1.9.2",
+    "mongoose": "^4.0.3",
+    "underscore": "^1.8.3"
+  }
+}
